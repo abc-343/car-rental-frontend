@@ -31,7 +31,6 @@ export function MainLayout() {
             <KeyRound size={20} /> Rentals
           </NavLink>
         </nav>
-        <p className="sidebar-foot">Rental desk, Saint-Lambert branch</p>
       </aside>
       <main className="content">
         <Outlet />
