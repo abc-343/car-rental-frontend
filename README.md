@@ -4,7 +4,7 @@ React + TypeScript frontend for the Car Rental API (Milestone 2).
 It lets you manage cars, customers and rentals, and navigate between them.
 
 - **Backend API:** https://car-rental-project-k0e4.onrender.com
-- **Frontend:** _add the Render URL here_
+- **Frontend:** https://car-rental-frontend-sfch.onrender.com
 
 Note: the backend is on Render's free plan, so the first request can take up to a minute.
 
